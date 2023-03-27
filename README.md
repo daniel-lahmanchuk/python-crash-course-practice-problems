@@ -7,6 +7,6 @@ I'm a beginner programmer in Python and I thought that it would be a nice exerci
 
 Also all of the problems start at 2-1 because the problems before aren't coding problems but instead things like checking out the Python home page or writing down programming project ideas.
 
-This is the book: 
+**This is the book:**
 
 ![Python Crash Course Book: 2nd Edition](https://user-images.githubusercontent.com/124419231/227826609-5f531cc4-f431-4461-97ec-589ae004fe90.jpg)
