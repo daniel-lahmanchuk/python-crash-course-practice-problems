@@ -1,5 +1,5 @@
 # python_crash_course_practice_problems
-These are all of the try it yourself problems solved from the beginner python book, Python Crash Course, by Eric Matthes.
+These are all of the "Try It Yourself" problems solved from the beginner python book, Python Crash Course, by Eric Matthes.
 
 The book that I'm solving the problems from is the second edition and so some of the problems might differ from yours if you have the first edition. Also the same thing occurs if the author makes more editions of the book later into the future.
 
